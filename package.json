@@ -1,0 +1,10 @@
+{
+  "name": "osunbit",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "commit": "git add . && git commit -m 'latest update v1' && git push"
+  }
+  
+}
