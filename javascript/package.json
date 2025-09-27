@@ -1,0 +1,12 @@
+{
+  "name": "osunbit",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "description": "Official Osunbit JavaScript SDK (v0.0.1)",
+  "keywords": [
+    "osunbit",
+    "sdk"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
